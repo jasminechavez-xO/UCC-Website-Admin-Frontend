@@ -616,7 +616,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-        // Handle table photo errors without inline JavaScript.
 
         tableBody.querySelectorAll(".table-photo img").forEach((img) => {
 
